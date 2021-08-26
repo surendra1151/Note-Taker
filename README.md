@@ -1,3 +1,5 @@
+# Note - Taker
+It's a simple note application that adds alist and stores in our local storage
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
